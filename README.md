@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Immobi Solusi Prima
+- 🔭 I’m currently working on it consultant company
 - 🌱 I'm expert in Javascript especially ReactJs and I’m currently learning Flutter
 - 🤔 I’m looking for help with research & ask on stackoverflow
 - 💬 Ask me anything about javascript
