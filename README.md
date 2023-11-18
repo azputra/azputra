@@ -7,7 +7,4 @@
 - 💬 Ask me anything about javascript
 - 📫 How to reach me: ahmadzp102@gmail.com
 
-
-
-
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=azputra&layout=compact&theme=darcula)
