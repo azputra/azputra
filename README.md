@@ -8,18 +8,6 @@ Building enterprise SaaS, mission-critical systems, and scalable full-stack prod
 
 ---
 
-## Currently
-
-| Role | Company | Focus |
-|------|---------|-------|
-| Senior Frontend Engineer | Functional Logix Pty Ltd | Mining industry · React.js · TypeScript |
-| Full Stack Engineer | Kandara Digital Kreatif | Enterprise operational workflows |
-| Independent Technical Consultant | Global Remote Clients | Healthcare · education · public sector |
-
-Open to **Senior / Staff Engineer** and **Technical Lead** roles with distributed teams across **APAC**.
-
----
-
 ## Selected Impact
 
 → Led a **5-person** cross-functional team to recover and deliver a stalled **government monitoring platform** within **30 business days**
@@ -96,19 +84,6 @@ flowchart LR
 **Practices:** `System Architecture` `Technical Leadership` `SaaS Development` `Agile/Scrum` `Performance Optimization`
 
 **Also:** `Three.js` `Highcharts` `Google Maps API` `Git` `Jira`
-
----
-
-## Experience Snapshot
-
-```
-May 2025 — Present   Senior Frontend Engineer     Functional Logix · Remote · Australia
-Oct 2024 — Present   Full Stack Engineer          Kandara Digital Kreatif · Remote · Indonesia
-Jan 2023 — Present   Independent Consultant       Global Remote Clients
-Oct 2023 — Jan 2026  Full Stack Engineer          Confidential U.S. Client · SaaS
-Sep 2023 — Feb 2024  Frontend Engineer            Wise Accelerate · Remote · Vietnam
-Mar 2020 — Jul 2023  Full Stack Engineer          Immobi Solusi Prima · Jakarta
-```
 
 ---
 
