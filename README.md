@@ -1,35 +1,114 @@
-# Hi, I'm Ahmad Zuliansyah Putra 👋
+# Ahmad Zuliansyah Putra
 
-**Senior Full Stack Engineer** · Technical Lead · React.js · Node.js · TypeScript
+**Senior Full Stack Engineer** · React · Node.js · TypeScript · Technical Lead
 
-Delivering SaaS products, enterprise applications & mission-critical systems for global teams.
+Building enterprise SaaS, mission-critical systems, and scalable full-stack products for distributed teams across **Australia**, the **United States**, **Vietnam**, and **Indonesia**.
 
-🌐 **[View my portfolio →](https://portfolio-liard-psi-e27qzymkdy.vercel.app/)**
-
----
-
-## About Me
-
-Senior Full Stack Engineer with 6+ years of experience across healthcare, education, logistics, industrial, and public sectors — since March 2020.
-
-Experienced in leading cross-functional teams, recovering delayed projects, and delivering scalable software from planning through production. Strong in React.js, Node.js, TypeScript, API development, system architecture, and remote collaboration across **Australia**, the **United States**, **Vietnam**, and **Indonesia**.
-
-📍 Indonesia · Remote · Open for international roles
+🌐 **[Portfolio](https://portfolio-liard-psi-e27qzymkdy.vercel.app/)** · 💼 **[LinkedIn](https://linkedin.com/in/azputra)** · 📧 **[ahmadzp102@gmail.com](mailto:ahmadzp102@gmail.com)**
 
 ---
 
-## What I Do
+## Currently
 
-- **SaaS & Enterprise** — Scalable dashboards, CMS platforms, warehouse systems, and production-grade web apps
-- **Technical Leadership** — Team leadership, project recovery, architecture decisions, and delivery planning
-- **Full Stack Engineering** — React.js frontends, Node.js APIs, PostgreSQL / MySQL / MongoDB, and integrations
-- **System Architecture** — API design, performance optimization, reusable component systems
+| Role | Company | Focus |
+|------|---------|-------|
+| Senior Frontend Engineer | Functional Logix Pty Ltd | Mining industry · React.js · TypeScript |
+| Full Stack Engineer | Kandara Digital Kreatif | Enterprise operational workflows |
+| Independent Technical Consultant | Global Remote Clients | Healthcare · education · public sector |
+
+Open to **Senior / Staff Engineer** and **Technical Lead** roles with distributed teams across **APAC**.
+
+---
+
+## Selected Impact
+
+→ Led a **5-person** cross-functional team to recover and deliver a stalled **government monitoring platform** within **30 business days**
+
+→ Built **healthcare compliance platforms** supporting hospital operational monitoring and waste management workflows
+
+→ Designed **drag-and-drop content engines** enabling non-technical users to create interactive educational experiences
+
+→ Delivered **facial recognition-based workforce management** and attendance systems for enterprise clients
+
+→ Developed **no-code website builder** and warehouse management modules for a U.S.-based SaaS platform
+
+---
+
+## Featured Work
+
+> Pin these repos on your profile for recruiter visibility. Private client work is summarized below.
+
+| Project | Domain | Stack |
+|---------|--------|-------|
+| [**portfolio**](https://github.com/azputra/portfolio) | Interactive 3D portfolio · React + Three.js + GSAP | `React` `TypeScript` `Three.js` `WebGL` |
+| **Government Vessel Monitoring** | Mission-critical maritime operations · dashboards & reporting | `React` `Node.js` `TypeScript` `PostgreSQL` |
+| **Hospital Waste Management** | Healthcare compliance · operational monitoring | `React` `Node.js` `PostgreSQL` |
+| **No-Code Website Builder** | U.S. SaaS · drag-and-drop page creation | `React` `Node.js` `TypeScript` |
+| [**Edwardsog Playground**](https://playground.edwardsog.com) | Dyslexia-focused educational activity engine | `React` `JavaScript` |
+
+---
+
+## Architecture
+
+Typical full-stack systems I design and deliver:
+
+```mermaid
+flowchart LR
+  subgraph Client
+    UI[React / Next.js SPA]
+  end
+
+  subgraph API
+    GW[REST API · Node.js / Express]
+    Auth[Auth & Access Control]
+  end
+
+  subgraph Data
+    DB[(PostgreSQL / MongoDB)]
+    Cache[(Redis — when needed)]
+  end
+
+  subgraph Integrations
+    Maps[Google Maps API]
+    Charts[Highcharts / Analytics]
+    Third[Third-party Services]
+  end
+
+  UI --> GW
+  GW --> Auth
+  GW --> DB
+  GW --> Cache
+  GW --> Maps
+  GW --> Charts
+  GW --> Third
+```
+
+**Principles:** reusable component architecture · API-first design · performance optimization · remote-friendly delivery · production observability
 
 ---
 
 ## Tech Stack
 
-`React` `Next.js` `TypeScript` `JavaScript` `Node.js` `Express` `PostgreSQL` `MySQL` `MongoDB` `Three.js` `REST API` `Git` `Agile`
+**Core:** `React.js` `Next.js` `TypeScript` `Node.js` `Express` `REST APIs`
+
+**Data:** `PostgreSQL` `MySQL` `MongoDB`
+
+**Practices:** `System Architecture` `Technical Leadership` `SaaS Development` `Agile/Scrum` `Performance Optimization`
+
+**Also:** `Three.js` `Highcharts` `Google Maps API` `Git` `Jira`
+
+---
+
+## Experience Snapshot
+
+```
+May 2025 — Present   Senior Frontend Engineer     Functional Logix · Remote · Australia
+Oct 2024 — Present   Full Stack Engineer          Kandara Digital Kreatif · Remote · Indonesia
+Jan 2023 — Present   Independent Consultant       Global Remote Clients
+Oct 2023 — Jan 2026  Full Stack Engineer          Confidential U.S. Client · SaaS
+Sep 2023 — Feb 2024  Frontend Engineer            Wise Accelerate · Remote · Vietnam
+Mar 2020 — Jul 2023  Full Stack Engineer          Immobi Solusi Prima · Jakarta
+```
 
 ---
 
@@ -43,16 +122,8 @@ Experienced in leading cross-functional teams, recovering delayed projects, and 
 | 📺 YouTube | [youtube.com/@azputra3658](https://www.youtube.com/@azputra3658) |
 | 📧 Email | [ahmadzp102@gmail.com](mailto:ahmadzp102@gmail.com) |
 
----
-
-## Try Cursor AI
-
-I build faster with [Cursor](https://cursor.com) — the AI-powered code editor. Sign up with my referral link and get extra credits:
-
-👉 **[cursor.com/referral?code=Y19PCLX43QLI](https://cursor.com/referral?code=Y19PCLX43QLI)**
+📍 Indonesia · Remote · **English** (professional) · **Indonesian** (native)
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azputra&layout=compact&theme=darcula)
+<sub>Built with [Cursor](https://cursor.com) · [Referral link](https://cursor.com/referral?code=Y19PCLX43QLI)</sub>
